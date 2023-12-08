@@ -23,8 +23,10 @@ Challenges Encountered: Early on, I struggled with performance optimization and 
 Version 1.1 (Color Adjustments): Tweaked the color palette for a more vibrant and natural look, enhancing visual appeal.
 <img width="400" alt="Screenshot 2023-12-08 at 11 40 34 AM" src="https://github.com/hanaazab/AC-CT-3-FA23/assets/102134220/d5bc5e00-3b90-4f0a-baea-8b674c092c24">
 <img width="400" alt="Screenshot 2023-12-08 at 11 40 49 AM" src="https://github.com/hanaazab/AC-CT-3-FA23/assets/102134220/b844f56d-9e8e-4aff-aa37-7845ea6dd852">
+
 Version 1.2 (Camera Movement): Implemented smoother camera movements to add dynamism and depth to the scene.
 <img width="400" alt="Screenshot 2023-12-08 at 11 41 24 AM" src="https://github.com/hanaazab/AC-CT-3-FA23/assets/102134220/dded24ae-48e6-452f-8e80-5f879704b85a">
+
 Version 1.3 (Lighting and Fog): Adjusted lighting and fog to create a more immersive and realistic atmosphere.
 <img width="400" alt="Screenshot 2023-12-08 at 11 41 44 AM" src="https://github.com/hanaazab/AC-CT-3-FA23/assets/102134220/f2f4b327-e8d2-48a4-80b7-c64b1b3301e7">
 
