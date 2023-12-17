@@ -14,3 +14,4 @@
 
 ## Recap Video
 ![Watch Here](https://youtu.be/al-CmtuRask)
+![Watch Here](https://www.youtube.com/watch?v=al-CmtuRask)
