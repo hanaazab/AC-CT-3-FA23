@@ -1,4 +1,4 @@
-# Simulations od Drying | Drought
+# Simulations of Drying | Drought
 
 ## Background 
 ! [image] ()
